@@ -9,10 +9,6 @@ I am an aspiring Security Operations Center (SOC) Analyst with a strong academic
 ![](https://nirzak-streak-stats.vercel.app/?user=Isaac-mhlanga&theme=darcula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-mhlanga&theme=darcula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Isaac-mhlanga&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
