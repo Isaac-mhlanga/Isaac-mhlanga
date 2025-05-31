@@ -1,4 +1,4 @@
-# 💫 About Me:
+## Isaac Tinyiko Mhlanga
 I am an aspiring Security Operations Center (SOC) Analyst with a strong academic foundation, holding a Bachelor of Science in Mathematics and Computer Science. I am currently advancing my expertise through an Honours degree in Computer Science with a focus on Cybersecurity. My interests lie in threat detection, incident response, and building secure, resilient systems that protect against evolving cyber threats.
 
 
